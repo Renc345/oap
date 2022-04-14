@@ -1,0 +1,15 @@
+C:\Users\Студент\Desktop\pr11\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\pr11\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\pr11\obj\Debug\pr11_MarkupCompile.cache
+C:\Users\Студент\Desktop\pr11\obj\Debug\pr11_MarkupCompile.lref
+C:\Users\Студент\Desktop\pr11\bin\Debug\pr11.exe.config
+C:\Users\Студент\Desktop\pr11\bin\Debug\pr11.exe
+C:\Users\Студент\Desktop\pr11\bin\Debug\pr11.pdb
+C:\Users\Студент\Desktop\pr11\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\pr11\obj\Debug\pr11.g.resources
+C:\Users\Студент\Desktop\pr11\obj\Debug\pr11.Properties.Resources.resources
+C:\Users\Студент\Desktop\pr11\obj\Debug\pr11.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\pr11\obj\Debug\pr11.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\pr11\obj\Debug\pr11.exe
+C:\Users\Студент\Desktop\pr11\obj\Debug\pr11.pdb
+C:\Users\Студент\Desktop\pr11\obj\Debug\pr11.csproj.AssemblyReference.cache

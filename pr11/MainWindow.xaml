@@ -1,0 +1,49 @@
+﻿<Window x:Class="pr11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pr11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="548.319" Width="520.168">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height ="0.3*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+            <TextBlock Text="Исходниый Массив"
+                       Margin="10"
+                       FontSize="14"
+                       FontFamily="Serifiqo 4F Free Capitals"
+                       Height="30"
+                       VerticalAlignment="Center"/>
+            <TextBlock Text="Итоговый Массив"
+                       Margin="10"
+                       FontSize="14"
+                       FontFamily="Serifiqo 4F Free Capitals"
+                       Height="30"
+                       VerticalAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+            <ListBox Name="LstInput"
+                     Width="200" Margin="10"/>
+            <ListBox Name="LstResult"
+                     Width="200" Margin="10"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+            <Button Name="BtnInput"
+                Content="Заполнить массив"
+                Click="BtnInput_Click" Margin="0,57,20,10"/>
+            <Button Name="BtnResult"
+                Content="Выполнить"
+                Click="BtnResult_Click_1" Margin="0,0,20,292" Grid.Row="1"/>
+        </StackPanel>
+    </Grid>
+</Window>
